@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a rel="me" href="https://infosec.exchange/@m_haggis">Mastodon</a>
